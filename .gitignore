@@ -1,2 +1,5 @@
+.vscode
+*.pyc
 __pycache__/
-.vscod
+local_settings.py
+db.sqlite3
